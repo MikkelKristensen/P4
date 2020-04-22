@@ -1,7 +1,7 @@
 import pyaudio
 import wave
 import struct
-import wavio
+#import wavio
 import time
 import numpy as np
 from matplotlib import pyplot as plt
